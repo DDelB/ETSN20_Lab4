@@ -1,0 +1,6 @@
+This is how to compile and run the program:
+
+javac StringFinder.java
+java StringFinder search "david" demo.txt
+
+(You could run java StringFinder search "java" howTo.txt as well if you want)
